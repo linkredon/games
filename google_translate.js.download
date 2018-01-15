@@ -1,0 +1,1 @@
+function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'en',layout:google.translate.TranslateElement.InlineLayout.SIMPLE,gaTrack:true,gaId:'UA-1768598-3'},'google_translate_element');}

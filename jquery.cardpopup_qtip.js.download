@@ -1,0 +1,1 @@
+$(document).ready(function(){$(function(){$('.card_popup').each(function(){$(this).qtip({content:$(this).attr('rel'),position:{my:'left top',at:'right top',target:$(this)},show:{event:'mouseenter',delay:100,solo:true},hide:{event:'mouseleave',delay:0},style:{classes:'qtip-light qtip-rounded',}});});});});
